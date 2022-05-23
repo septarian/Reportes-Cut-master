@@ -6,7 +6,7 @@ import background from "../images/try.svg";
 const API = process.env.REACT_APP_API;
 
 
-
+ 
 
 export const Signup = () => {
     const [nombre, setNombre] = useState('')
